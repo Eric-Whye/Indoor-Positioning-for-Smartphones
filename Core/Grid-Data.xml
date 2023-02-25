@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<data>
+    <grid id="0">
+        <X>0.0</X>
+        <Y>0.0</Y>
+        <wifi>
+            <rssi ssid="VM3317413" mac_ad="b4:f2:67:12:35:da">-91</rssi>
+            <rssi ssid="VM4399309-5ghz" mac_ad="38:43:7d:5f:5f:c2">-89</rssi>
+            <rssi ssid="VMBA7878E" mac_ad="ac:22:05:e2:fa:da">-87</rssi>
+            <rssi ssid="FRITZ!Box 7530 PM" mac_ad="dc:15:c8:5a:89:c3">-96</rssi>
+            <rssi ssid="FRITZ!Box 7530 PM" mac_ad="dc:15:c8:5a:89:c2">-84</rssi>
+            <rssi ssid="VM8383337" mac_ad="ac:f8:cc:b6:02:8d">-91</rssi>
+            <rssi ssid="VM4399309" mac_ad="38:43:7d:5f:5f:ea">-85</rssi>
+            <rssi ssid="VM3317413" mac_ad="b4:f2:67:12:35:df">-89</rssi>
+            <rssi ssid="SKYBCE35" mac_ad="b0:3e:51:60:fb:5c">-83</rssi>
+            <rssi ssid="Horizon Wi-Free" mac_ad="3a:43:1d:5f:5f:ea">-85</rssi>
+            <rssi ssid="VM6455339" mac_ad="38:43:7d:a7:f4:19">-87</rssi>
+            <rssi ssid="SKYWMTY1" mac_ad="6c:a0:b4:56:50:4a">-86</rssi>
+            <rssi ssid="SKYWMTY1" mac_ad="d4:52:ee:27:1c:6c">-88</rssi>
+            <rssi ssid="VM3239816" mac_ad="34:2c:c4:f5:fe:7f">-96</rssi>
+            <rssi ssid="Horizon Wi-Free" mac_ad="3a:43:1d:a7:f4:2d">-85</rssi>
+            <rssi ssid="Horizon Wi-Free" mac_ad="b6:f2:17:12:35:df">-89</rssi>
+            <rssi ssid="Did you turn off the immersion" mac_ad="dc:15:c8:20:f7:ab">-58</rssi>
+            <rssi ssid="Did you turn off the immersion" mac_ad="dc:15:c8:20:f7:ac">-67</rssi>
+            <rssi ssid="VM6455339" mac_ad="38:43:7d:a7:f4:2d">-85</rssi>
+            <rssi ssid="VME299AE1" mac_ad="54:67:51:c8:29:78">-81</rssi>
+            <rssi ssid="VMEA54121 5GHz" mac_ad="90:5c:44:9b:20:33">-94</rssi>
+            <rssi ssid="UPC247228546" mac_ad="54:88:0e:1a:6d:78">-78</rssi>
+            <rssi ssid="SKYWC2EQ" mac_ad="90:02:18:66:93:ac">-90</rssi>
+            <rssi ssid="Horizon Wi-Free" mac_ad="92:5c:14:9b:20:62">-84</rssi>
+            <rssi ssid="VMEA54121 2.4GHz" mac_ad="90:5c:44:9b:20:62">-79</rssi>
+        </wifi>
+    </grid>
+    <grid id="1">
+        <X>0.0</X>
+        <Y>2.0</Y>
+        <wifi>
+            <rssi ssid="Ma and da room TV.b" mac_ad="fa:8f:ca:3d:6e:ac">-82</rssi>
+            <rssi ssid="VM3317413" mac_ad="b4:f2:67:12:35:da">-94</rssi>
+            <rssi ssid="VM4399309-5ghz" mac_ad="38:43:7d:5f:5f:c2">-89</rssi>
+            <rssi ssid="Horizon Wi-Free" mac_ad="56:67:11:c8:29:85">-82</rssi>
+            <rssi ssid="SKYWMTY1" mac_ad="d0:58:fc:af:fc:3e">-96</rssi>
+            <rssi ssid="VM-guest6455339" mac_ad="3a:43:7d:a7:f3:1c">-85</rssi>
+            <rssi ssid="VM8383337" mac_ad="ac:f8:cc:b6:02:8d">-94</rssi>
+            <rssi ssid="VM4399309" mac_ad="38:43:7d:5f:5f:ea">-85</rssi>
+            <rssi ssid="VM3317413" mac_ad="b4:f2:67:12:35:df">-90</rssi>
+            <rssi ssid="Horizon Wi-Free" mac_ad="3a:43:1d:5f:5f:ea">-85</rssi>
+            <rssi ssid="VM8829273 - 2.4GHz" mac_ad="34:2c:c4:88:13:d3">-92</rssi>
+            <rssi ssid="VM6455339" mac_ad="38:43:7d:a7:f4:19">-85</rssi>
+            <rssi ssid="TP-LINK_D0B254" mac_ad="a4:2b:b0:d0:b2:54">-86</rssi>
+            <rssi ssid="HZN503918772" mac_ad="1c:3a:de:6e:1b:a4">-89</rssi>
+            <rssi ssid="SKYWMTY1" mac_ad="d4:52:ee:27:1c:6c">-89</rssi>
+            <rssi ssid="Horizon Wi-Free" mac_ad="b6:f2:17:12:35:df">-91</rssi>
+            <rssi ssid="Did you turn off the immersion" mac_ad="dc:15:c8:20:f7:ab">-58</rssi>
+            <rssi ssid="Did you turn off the immersion" mac_ad="dc:15:c8:20:f7:ac">-68</rssi>
+            <rssi ssid="VME299AE1" mac_ad="54:67:51:c8:29:78">-82</rssi>
+            <rssi ssid="VMEA54121 5GHz" mac_ad="90:5c:44:9b:20:33">-92</rssi>
+            <rssi ssid="Horizon Wi-Free" mac_ad="ae:f8:cc:d5:98:93">-89</rssi>
+            <rssi ssid="VM4447715" mac_ad="ac:f8:cc:d5:98:83">-95</rssi>
+            <rssi ssid="SKYWC2EQ" mac_ad="90:02:18:66:93:ac">-94</rssi>
+            <rssi ssid="Horizon Wi-Free" mac_ad="92:5c:14:9b:20:62">-80</rssi>
+            <rssi ssid="VM6176456_EXT" mac_ad="00:31:92:0b:07:5b">-80</rssi>
+            <rssi ssid="VME299AE1" mac_ad="54:67:51:c8:29:85">-82</rssi>
+            <rssi ssid="VMEA54121 2.4GHz" mac_ad="90:5c:44:9b:20:62">-80</rssi>
+        </wifi>
+    </grid>
+</data>

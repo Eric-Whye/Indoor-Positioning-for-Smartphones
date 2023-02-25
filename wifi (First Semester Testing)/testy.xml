@@ -1,0 +1,197 @@
+<data>
+	<grid id="0">
+		<X />
+		<Y />
+		<wifi>
+			<rssi ssid="E3.02-Wireless" mac_ad="80-EA-96-F1-DF-85">-77</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-54-A8-6E">-76</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-44-FC-4E">-73</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-9A-EF-61">-62</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-54-A7-EE">-74</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-49-F7-AE">-74</rssi>
+			<rssi ssid="eduroam" mac_ad="50-1C-B0-55-74-0E">-77</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-9A-EF-6E">-64</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-04-30-6E">-78</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-28-1F-6E">-74</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-54-8B-4E">-74</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-32-CE">-62</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-37-2F-AE">-78</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-0A-D5-8E">-59</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-3A-2E">-70</rssi>
+			<rssi ssid="eduroam" mac_ad="DC-8C-37-97-C5-EE">-65</rssi>
+			<rssi ssid="eduroam" mac_ad="DC-8C-37-C5-72-4E">-80</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-0A-D5-81">-59</rssi>
+			<rssi ssid="Galaxy S225685" mac_ad="B6-85-91-38-05-CC">-61</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="DC-8C-37-97-C5-ED">-66</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-0A-D5-8D">-59</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-37-2F-AD">-78</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-8B-4D">-74</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-32-CD">-62</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-3A-2D">-70</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="50-1C-B0-55-74-0D">-76</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-9A-EF-6D">-66</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-49-F7-AD">-77</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-A8-6D">-76</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-9A-EF-62">-62</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-A7-ED">-76</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-28-1F-6D">-73</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-0A-D5-82">-61</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="DC-8C-37-C5-72-4D">-79</rssi>
+		</wifi>
+	</grid>
+	<grid id="1">
+		<X />
+		<Y />
+		<wifi>
+			<rssi ssid="eduroam" mac_ad="DC-8C-37-97-C5-EE">-70</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-54-A7-EE">-72</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-0A-D5-81">-60</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-9A-EF-6E">-62</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-45-01-2E">-76</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-54-8B-4E">-74</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-28-1F-6E">-67</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-37-2F-AE">-75</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-32-CE">-61</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-3A-CE">-82</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-0A-D5-8E">-55</rssi>
+			<rssi ssid="Galaxy S225685" mac_ad="B6-85-91-38-05-CC">-59</rssi>
+			<rssi ssid="HUAWEI P30 lite" mac_ad="E4-19-C1-3E-9F-81">-70</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="DC-8C-37-97-C5-ED">-71</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-3A-2D">-71</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-3A-CD">-85</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-0A-D5-8D">-56</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-32-CD">-62</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-8B-4D">-75</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-37-2F-AD">-74</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-28-1F-6D">-66</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-9A-EF-62">-63</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="3C-51-0E-D1-29-8D">-74</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-9A-EF-6D">-63</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-A7-ED">-73</rssi>
+		</wifi>
+	</grid>
+	<grid id="2">
+		<X />
+		<Y />
+		<wifi>
+			<rssi ssid="DIRECT-5E-HP PageWide Pro 477dw" mac_ad="FE-3F-DB-D0-78-5E">-68</rssi>
+			<rssi ssid="E3.02-Wireless" mac_ad="80-EA-96-F1-DF-85">-77</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-49-F7-AE">-68</rssi>
+			<rssi ssid="eduroam" mac_ad="3C-51-0E-E6-31-81">-61</rssi>
+			<rssi ssid="eduroam" mac_ad="3C-51-0E-E6-31-8E">-58</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-44-FC-4E">-72</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-37-19-CE">-65</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-34-4E">-71</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-54-A7-EE">-73</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-0A-D5-81">-59</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-9A-EF-6E">-65</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-37-2F-AE">-67</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-28-1F-6E">-69</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-54-8B-4E">-72</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-32-CE">-59</rssi>
+			<rssi ssid="eduroam" mac_ad="DC-8C-37-C5-76-8E">-83</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-0A-D5-8E">-53</rssi>
+			<rssi ssid="eduroam" mac_ad="DC-8C-37-97-C5-EE">-73</rssi>
+			<rssi ssid="Galaxy S225685" mac_ad="B6-85-91-38-05-CC">-60</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="3C-51-0E-D1-29-8D">-72</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-0A-D5-8D">-54</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-3A-2D">-74</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-8B-4D">-72</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-37-2F-AD">-68</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-32-CD">-59</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-28-1F-6D">-69</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-04-30-6D">-84</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-9A-EF-6D">-66</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-37-19-CD">-70</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-44-FC-4D">-73</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-34-4D">-70</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-A7-ED">-75</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="3C-51-0E-E6-31-8D">-59</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-49-F7-AD">-68</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="DC-8C-37-97-C5-ED">-72</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-A8-6D">-77</rssi>
+		</wifi>
+	</grid>
+	<grid id="3">
+		<X />
+		<Y />
+		<wifi>
+			<rssi ssid="DIRECT-0e-HP M181 LaserJet" mac_ad="B2-52-16-91-AE-0E">-83</rssi>
+			<rssi ssid="DIRECT-5E-HP PageWide Pro 477dw" mac_ad="FE-3F-DB-D0-78-5E">-69</rssi>
+			<rssi ssid="E3.02-Wireless" mac_ad="80-EA-96-F1-DF-85">-77</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-32-C1">-59</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-32-CE">-56</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-3E-2E">-71</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-0A-D5-8E">-64</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-28-1F-61">-71</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-9A-EF-6E">-71</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-49-F4-6E">-72</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-3A-CE">-74</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-49-F7-A1">-66</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-8B-4D">-73</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-54-8C-6D">-83</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-49-F4-6D">-72</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-44-FC-4D">-76</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-0A-D5-8D">-67</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-32-CD">-57</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="3C-51-0E-E6-31-82">-68</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-49-F7-A2">-66</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-9A-EF-6D">-72</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-32-C2">-58</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-3A-CD">-74</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-3A-C2">-75</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-3E-2D">-70</rssi>
+		</wifi>
+	</grid>
+	<grid id="4">
+		<X />
+		<Y />
+		<wifi>
+			<rssi ssid="DIRECT-5E-HP PageWide Pro 477dw" mac_ad="FE-3F-DB-D0-78-5E">-65</rssi>
+			<rssi ssid="E3.02-Wireless" mac_ad="80-EA-96-F1-DF-85">-77</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-3E-2E">-74</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-32-C1">-56</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-33-32-CE">-48</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-0A-D5-8E">-65</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-49-F7-A1">-64</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-28-1F-6E">-72</rssi>
+			<rssi ssid="eduroam" mac_ad="68-3B-78-49-F4-6E">-70</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-54-8B-4E">-78</rssi>
+			<rssi ssid="eduroam" mac_ad="A0-B4-39-44-FC-4E">-84</rssi>
+			<rssi ssid="Galaxy S225685" mac_ad="B6-85-91-38-05-CC">-68</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-49-F4-6D">-70</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-49-F4-62">-67</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="68-3B-78-49-F7-A2">-66</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-32-C2">-56</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-32-CD">-49</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-33-3E-2D">-75</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-28-1F-6D">-71</rssi>
+			<rssi ssid="UCD Wireless" mac_ad="A0-B4-39-44-FC-4D">-77</rssi>
+		</wifi>
+	</grid>
+	<grid id="5">
+		<X />
+		<Y />
+		<wifi />
+	</grid>
+	<grid id="6">
+		<X />
+		<Y />
+		<wifi />
+	</grid>
+	<grid id="7">
+		<X />
+		<Y />
+		<wifi />
+	</grid>
+	<grid id="8">
+		<X />
+		<Y />
+		<wifi />
+	</grid>
+	<grid id="9">
+		<X />
+		<Y />
+		<wifi />
+	</grid>
+</data>
